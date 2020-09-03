@@ -1,5 +1,5 @@
 # OpenCart  hCaptcha
-This is a simple implementation of hCaptcha for OpenCart 3
+This is a simple implementation of [hCaptcha](https://hcaptcha.com) for OpenCart 3
 
 ## Tested versions
 It has been tested on OpenCart 3.0.3.3
